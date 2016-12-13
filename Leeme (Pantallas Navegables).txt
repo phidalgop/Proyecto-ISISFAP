@@ -1,0 +1,4 @@
+Para ver las pantallas navegables de nuestra primera versión de la aplicación iniciar sesión en la web de Moqups con estos datos:
+
+Usuario: proyectoIS
+Contraseña: latablaperiodica
